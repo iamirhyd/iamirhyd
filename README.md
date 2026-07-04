@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Amir H.</h1>
-<h3 align="center">🪶 21 year old frontend developer with experience in building web applications</h3>
+<h3 align="center">🪶 21 year old frontend developer with experience in building web applications 🪶</h3>
 
 - 🐌 I specialize in turning designs into fully functional code.
 
